@@ -42,7 +42,7 @@ window.usabilla ||
           //   var l = b.contentWindow.document;
           //   l.write(
           //     [
-          //       "<!DOCTYPE html><html><head><\/head><body><script>window.onload = function () {var d = document;d.getElementsByTagName(\"head\")[0].appendChild(d.createElement(\"script\")).src='",
+          //       "<!DOCTYPE html><html><head><\/head><body><script nonce=\"27f1992y\">window.onload = function () {var d = document;d.getElementsByTagName(\"head\")[0].appendChild(d.createElement(\"script\")).src='",
           //       e.url,
           //       "';};<\/script><\/body><\/html>",
           //     ].join("")
