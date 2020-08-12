@@ -70,4 +70,4 @@ window.usabilla ||
       }
     };
   })();
-window.usabilla.load("w.usabilla.com", "3c677086ac75");
+window.usabilla.load("w.usabilla.com", "3680b6169b2b");
